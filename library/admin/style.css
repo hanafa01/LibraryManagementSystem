@@ -1,0 +1,30 @@
+.menu-section {
+    background-color: #f7f7f7;
+    border-bottom:5px solid #595959;
+    width:100%
+}
+.footer {
+  background-color: #f7f7f7;
+  padding:25px 50px 95px 50px;
+  color:#000;
+  font-size:13px;
+  text-align:right;
+  border-top:5px solid #595959;
+}
+
+
+
+.pad-botm {
+    padding-bottom: 30px;
+}
+#getInfo{
+  display: none;
+}
+
+#getInfo2{
+  display: none;
+}
+
+#book_table th, td {
+white-space: nowrap;
+}
