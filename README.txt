@@ -1,5 +1,3 @@
-This library system will be used by users to check/search the availability of books and to request a book online and provide admins with an intefrace to checkout orders and maintain the books data.
-
 How to run this Project
 
 1. Download and Unzip file on your local system copy library.
